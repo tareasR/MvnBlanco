@@ -11,3 +11,6 @@
 
 [Tutorial para la instalación de Java y Maven](https://dev.to/vanessa_corredor/instalar-manualmente-maven-en-windows-10-50pb)
 
+### Recurso textual del video
+
+[Tutorial escrito](https://raw.githubusercontent.com/tareasR/MvnBlanco/0186ad4fad7057a10bd4ed8509f8104cf161e14c/java_maven_windows_terminal.pdf)
